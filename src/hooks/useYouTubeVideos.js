@@ -1,4 +1,4 @@
-import youtube from "../api/youtube";
+import youtube from "../apis/youtube";
 import {useEffect, useState} from "react";
 
 const useYouTubeVideos = (defaultSearch) => {

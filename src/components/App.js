@@ -1,6 +1,6 @@
 import React from 'react';
 import SearchBar from "./SearchBar";
-import unsplash from '../api/unsplash';
+import unsplash from '../apis/unsplash';
 import {ImageList} from "./ImageList";
 
 export class App extends React.Component {

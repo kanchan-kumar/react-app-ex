@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Other Stream",
+      "description": "Temporary Stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This is demo stream....",
+      "userId": "100681596221635969055",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "React Programmatic Navigation",
+      "userId": "100681596221635969055",
+      "id": 4
+    },
+    {
+      "title": "Testing Inbuild",
+      "description": "??",
+      "userId": "100681596221635969055",
+      "id": 6
+    },
+    {
+      "title": "New Refactor Stream",
+      "description": "Added description",
+      "id": 7
+    }
+  ]
+}

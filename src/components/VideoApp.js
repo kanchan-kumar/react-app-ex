@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import SearchBar from "./SearchBar";
-import youtube from '../api/youtube';
+import youtube from '../apis/youtube';
 import {VideoList} from "./VideoList";
 import {VideoDetail} from "./VideoDetail";
 import useYouTubeVideos from "../hooks/useYouTubeVideos";
